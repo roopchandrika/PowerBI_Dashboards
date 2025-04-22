@@ -50,8 +50,3 @@ To view and interact with this dashboard:
 2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Explore slicers to filter by age, department, or education level.
 4. Analyze visual components to derive insights.
-
-## 📬 Contact
-
-**Roop Chandrika Mallela**  
-[LinkedIn](https://www.linkedin.com/in/roopchandrika) | Data Analyst & Power BI Enthusiast
