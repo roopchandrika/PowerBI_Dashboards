@@ -49,5 +49,5 @@ Their datasets and Power BI content made this challenge possible and insightful.
 
 ## 👤 Author
 **Roop Chandrika Mallela**  
-🔗 [LinkedIn]([https://www.linkedin.com/in/roopchandrikamallela/])  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/roopchandrikamallela/) 
 📧 Data Analyst | BI Developer | Machine Learning Enthusiast
